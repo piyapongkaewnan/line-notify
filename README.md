@@ -15,7 +15,7 @@ to send messages, images ,and stickers directly to Line service from Laravel and
 You need to use Composer to install Line-Notify into your project:
 
 ```
-composer require phattarachai/line-notify
+composer require piyapongkaewnan/line-notify
 ```
 
 ## Laravel Usage
